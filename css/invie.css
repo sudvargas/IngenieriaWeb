@@ -34,7 +34,7 @@ body {
 .button {
 =======
 button {
->>>>>>> ffce529e8795b1888cb62f405b2140f91f5eecf3
+
   border-radius: 5px;
   border: none;
   background: #fd324e;
@@ -129,11 +129,11 @@ th {
 }
 
 td {
-<<<<<<< HEAD
+
   padding: 20px;
 =======
   padding: 25px;
->>>>>>> ffce529e8795b1888cb62f405b2140f91f5eecf3
+
 }
 
 table, td, th {
@@ -198,5 +198,3 @@ flex-direction: column;
 .sexo{
   margin-top: 10px;
 }
-=======
->>>>>>> ffce529e8795b1888cb62f405b2140f91f5eecf3
