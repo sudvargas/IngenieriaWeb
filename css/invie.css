@@ -30,11 +30,7 @@ body {
   font-size: 50px;
   margin-bottom: 20px;
 }
-
 .button {
-
-button {
-
   border-radius: 5px;
   border: none;
   background: #fd324e;
@@ -129,18 +125,13 @@ th {
 }
 
 td {
-
   padding: 20px;
-=======
-  padding: 25px;
-
 }
 
 table, td, th {
   border: 1px solid #273b47;
   border-collapse: collapse;
 }
-
 .footer{
   background:#273b47;
 }
